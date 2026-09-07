@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/portrait.svg" alt="Animated terminal dot portrait" width="620" />
+<img src="./assets/portrait.svg" alt="Animated terminal dot portrait" width="320" />
 
 <br/>
 
