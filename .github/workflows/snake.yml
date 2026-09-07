@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: sayembillah-dev
           outputs: |
-            dist/github-snake.svg?color_snake=%23F8990C&color_dots=%23E8EEF5,%23B9CBE0,%2389ABD6,%234DA2F5,%23208AEF
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23F8990C&color_dots=%230B2A4C,%23103A63,%231C5A96,%23208AEF,%234DA2F5
+            dist/github-snake.svg?color_snake=%23CAFF3C&color_dots=%23E9F5E4,%23C8E8BE,%239CD68C,%2356B364,%232E7D32
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23CAFF3C&color_dots=%230E2012,%23163A1C,%231F5A26,%232E7D32,%2378FF9C
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
